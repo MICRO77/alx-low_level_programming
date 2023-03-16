@@ -1,6 +1,14 @@
 #include <stdio.h>
 
-int main() {
-    puts("Programming is like building a multilingual puzzle\n");
+/**
+ * main - this is the main function
+ *
+ * Return: always 0
+ */
+
+int main(void)
+{
+    puts("Programming is like building a multilingual puzzle");
     return 0;
 }
+
